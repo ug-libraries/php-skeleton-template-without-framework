@@ -1,0 +1,10 @@
+# Tools
+.idea/
+.vscode/
+vendor/
+
+# PHPUnit
+.phpunit.result.cache
+
+# Standard coding
+.phpcs-cache
